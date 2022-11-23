@@ -1,0 +1,3 @@
+﻿  Card.c
+D:\Embedded Systems\EgFwd-Professional Embedded Systems Course\PaymentApplication\PaymentApplication\Card\Card.c(7,2): warning C4013: 'gets' undefined; assuming extern returning int
+  Card.vcxproj -> D:\Embedded Systems\EgFwd-Professional Embedded Systems Course\PaymentApplication\PaymentApplication\x64\Debug\Card.exe

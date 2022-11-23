@@ -1,0 +1,4 @@
+﻿  Terminal.c
+D:\Embedded Systems\EgFwd-Professional Embedded Systems Course\PaymentApplication\PaymentApplication\Terminal\Terminal.c(9,2): warning C4013: 'gets' undefined; assuming extern returning int
+D:\Embedded Systems\EgFwd-Professional Embedded Systems Course\PaymentApplication\PaymentApplication\Terminal\Terminal.c(25,6): warning C4013: 'atoi' undefined; assuming extern returning int
+  Terminal.vcxproj -> D:\Embedded Systems\EgFwd-Professional Embedded Systems Course\PaymentApplication\PaymentApplication\x64\Debug\Terminal.exe

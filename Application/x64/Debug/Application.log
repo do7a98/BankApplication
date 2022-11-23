@@ -1,0 +1,8 @@
+﻿  Server.c
+D:\Embedded Systems\EgFwd-Professional Embedded Systems Course\PaymentApplication\PaymentApplication\Server\Server.c(132,195): warning C4047: 'function': 'ST_accountsDB_t *' differs in levels of indirection from 'ST_accountsDB_t **'
+D:\Embedded Systems\EgFwd-Professional Embedded Systems Course\PaymentApplication\PaymentApplication\Server\Server.c(132,177): warning C4024: 'isValidAccount': different types for formal and actual parameter 2
+D:\Embedded Systems\EgFwd-Professional Embedded Systems Course\PaymentApplication\PaymentApplication\Server\Server.c(134,193): warning C4047: 'function': 'ST_accountsDB_t *' differs in levels of indirection from 'ST_accountsDB_t **'
+D:\Embedded Systems\EgFwd-Professional Embedded Systems Course\PaymentApplication\PaymentApplication\Server\Server.c(134,175): warning C4024: 'isValidAccount': different types for formal and actual parameter 2
+  Application.c
+  Generating Code...
+  Application.vcxproj -> D:\Embedded Systems\EgFwd-Professional Embedded Systems Course\PaymentApplication\PaymentApplication\x64\Debug\Application.exe
